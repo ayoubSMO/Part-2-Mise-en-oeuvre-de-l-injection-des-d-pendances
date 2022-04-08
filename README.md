@@ -4,7 +4,8 @@
 <p>
   Test Avec le FrameWork Spring
 </p>
-![2_3](https://user-images.githubusercontent.com/84507906/162546557-3d27d65e-0934-457a-b1b2-163c1a14d136.png)
+
+![2_3](https://user-images.githubusercontent.com/84507906/162547011-1a18f1bd-b196-476a-a6e7-6fbdad2d7d6f.png)
 
 
 ![2_4](https://user-images.githubusercontent.com/84507906/162546558-df8bc9ef-c3ee-4d18-8d33-f9273321084e.png)
@@ -24,7 +25,10 @@
 
 <p>Faire le test de la fonction somme sur le IDE </p>
 <p>Return False car la valeur exepted est different au resultat</p>
-![2_11](https://user-images.githubusercontent.com/84507906/162546585-5a6f0243-3a8b-47c3-ab35-3a40195cfa3d.png)
+
+![2_11](https://user-images.githubusercontent.com/84507906/162547026-47005e27-4143-4e76-b7cf-aec4835f1fd7.png)
+
+
 <p>Faire le test avec la commande mvn test </p>
 <p>Le Tests run affiche que il exit 1 succes car expected == res c'est à dir que le test est bien Fait</p>
 
